@@ -17,6 +17,8 @@
 		<h3>github webhook 동작</h3>
 		<h3>github action 동작</h3>
 		<h3>OCI CI/CD 서버 구축 수업</h3>
+		<h3>OCI CI/CD 서버 구축 수업1</h3>
+		
 	</div>
 </body>
 </html>
